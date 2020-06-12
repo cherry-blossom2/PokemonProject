@@ -1,7 +1,11 @@
 * {box-sizing:border-box}
 
 .type-name {
-  text-align: center;
+  text-align: left; 
+}
+
+.icon{
+  border-radius: 50%;
 }
 
 /* Slideshow container */
