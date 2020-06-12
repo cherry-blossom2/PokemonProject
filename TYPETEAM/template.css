@@ -2,10 +2,18 @@
 
 .type-name {
   text-align: left; 
+  display: inline;
+  font-size: 100px;
 }
+
 
 .icon{
   border-radius: 50%;
+  display: inline;
+  width: 100px;
+  height: 100px;
+  float: right; 
+  
 }
 
 /* Slideshow container */
