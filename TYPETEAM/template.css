@@ -2,10 +2,38 @@
 
 .type-name {
   text-align: left; 
+  display: inline;
+  font-size: 75px;
 }
 
-.icon{
+
+.icon {
   border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  float: right;
+  
+}
+
+.characteristics {
+  float: left;
+}
+
+.slideshow {
+  float:right;
+}
+
+.slideshowimg {
+  width: 500px;
+  height: 300px;
+}
+
+.trainers {
+  float: right;
+}
+
+.matchups {
+  float: left;
 }
 
 /* Slideshow container */
@@ -17,8 +45,8 @@
 
 /* Hide the images by default */
 .mySlides {
-    display: none;
-  }  
+  display: none;
+}  
 
 /* Next & previous buttons */
 .prev, .next {
