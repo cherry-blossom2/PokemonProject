@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
 footer {
   background-size: cover;
   background-color:rgb(238, 238, 238);
   height: 63px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
 }
+
 * {box-sizing:border-box}
 body {
   background-color:white;
 }
+
 .button {
   font-size:25px;
   color:black;
@@ -47,7 +50,6 @@ body {
 }
 
 .slideshowimg {
-  width: 500px;
   height: 300px;
 }
 
@@ -105,22 +107,24 @@ body {
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: black;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
   width: 100%;
   text-align: center;
+  font-family: 'Balsamiq Sans', cursive;
 }
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: black;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
   top: 0;
+  font-family: 'Balsamiq Sans', cursive;
 }
 
 /* The dots/bullets/indicators */
