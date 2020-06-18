@@ -3,9 +3,10 @@
 footer {
   background-size: cover;
   background-color:rgb(238, 238, 238);
-  height: 100px;
+  height: 63px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
 }
+
 * {box-sizing:border-box}
 body {
   background-image:url('449895.jpg');
