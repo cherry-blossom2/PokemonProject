@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 footer {
-  height:100px;
+  background-size: cover;
   background-color:rgb(238, 238, 238);
+  height: 100px;
+  box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
 }
 * {box-sizing:border-box}
 body {
