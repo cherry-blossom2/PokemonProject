@@ -9,10 +9,11 @@ body {
   font-size:25px;
   color:black;
   text-decoration:none;
-  background-color:rgb(255, 208, 0);
+  background-color:rgb(245, 209, 9);
   border:2px solid black;
   margin:10px;
 }
+
 .type-name {
   font-family: 'Lobster', cursive;
   text-align: end; 
@@ -25,7 +26,6 @@ body {
   padding: 10px;
   justify-content: space-evenly;
 }
-
 
 .icon {
   border-radius: 50%;
