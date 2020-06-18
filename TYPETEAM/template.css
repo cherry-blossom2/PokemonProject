@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
+footer {
+  height:100px;
+  background-color:rgb(238, 238, 238);
+}
 * {box-sizing:border-box}
 body {
   background-color:white;
