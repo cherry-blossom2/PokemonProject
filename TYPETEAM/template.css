@@ -6,6 +6,11 @@
   font-size: 75px;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+}
+
 
 .icon {
   border-radius: 50%;
@@ -17,6 +22,7 @@
 
 .characteristics {
   float: left;
+  margin: 10px;
 }
 
 .slideshow {
