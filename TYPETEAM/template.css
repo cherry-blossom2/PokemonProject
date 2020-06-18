@@ -33,6 +33,7 @@ body {
 
 .characteristics {
   float: left;
+  text-align: center;
   margin: 10px;
 }
 
