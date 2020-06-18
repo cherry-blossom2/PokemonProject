@@ -11,7 +11,7 @@ body {
   margin:10px;
 }
 .type-name {
-  text-align: left; 
+  text-align: end; 
   display: inline;
   font-size: 75px;
 }
