@@ -17,6 +17,7 @@ body {
   margin:10px;
   padding: 5px;
 }
+
 .type-name {
   font-family: 'Lobster', cursive;
   text-align: end; 
@@ -29,7 +30,6 @@ body {
   padding: 10px;
   justify-content: space-evenly;
 }
-
 
 .icon {
   border-radius: 50%;
