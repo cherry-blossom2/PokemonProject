@@ -23,6 +23,14 @@ body {
   padding: 5px;
 }
 
+.ptxt {
+  color: black;
+  font-size: 15px;
+  padding: 8px 12px;
+  text-align: center;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
 .type-name {
   font-family: 'Lobster', cursive;
   text-align: end; 
