@@ -9,7 +9,7 @@ footer {
 
 * {box-sizing:border-box}
 body {
-  background-image:url('449895.jpg');
+  background-image:url(Pics/bg.jpg);
 }
 .button {
   font-size:25px;
@@ -34,10 +34,6 @@ body {
   justify-content: space-evenly;
 }
 
-.iconimg {
-  height: 74px;
-}
-
 .icon {
   border-radius: 50%;
   width: 75px;
@@ -53,12 +49,15 @@ body {
 }
 
 .slideshowimg {
-  width: 500px;
   height: 300px;
 }
 
 .trainers {
   float: right;
+}
+
+.trainerpic {
+  float: left;
 }
 
 .matchups {
@@ -67,6 +66,10 @@ body {
 
 .heading {
   font-family: 'Balsamiq Sans', cursive;
+}
+
+.iconimg {
+  height: 74px;
 }
 
 /* Slideshow container */
