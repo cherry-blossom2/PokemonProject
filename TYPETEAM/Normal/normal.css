@@ -25,7 +25,7 @@ body {
 
 .ptxt {
   color: black;
-  font-size: 15px;
+  font-size: 17px;
   padding: 8px 12px;
   text-align: left;
   font-family: 'Balsamiq Sans', cursive;
@@ -71,6 +71,11 @@ body {
 
 .heading {
   font-family: 'Balsamiq Sans', cursive;
+}
+
+.trainerimage {
+    float: right;
+    padding: 10px;
 }
 
 /* Slideshow container */
