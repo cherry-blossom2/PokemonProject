@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 footer {
   display: flex;
-  flex: 1;
   background-size: cover;
   background-color:rgb(238, 238, 238);
   height: 63px;
