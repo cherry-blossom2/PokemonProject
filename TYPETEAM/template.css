@@ -11,6 +11,8 @@ footer {
 * {box-sizing:border-box}
 body {
   background-image:url(Images/449895.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .button {
@@ -61,6 +63,7 @@ body {
 .trainerpic {
   float: right;
   height: 300px;
+  padding-left: 50px;
 }
 
 .matchups {
