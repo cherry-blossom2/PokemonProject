@@ -67,7 +67,7 @@ body {
 .trainerpic {
   float: right;
   height: 400px;
-  padding-left: 50px;
+  padding: 10px;
 }
 
 .matchups {
