@@ -73,7 +73,6 @@ body {
 
 .fcontain {
   display: flex;
-  padding: 10px;
   justify-content: space-evenly;
 }
 
@@ -83,7 +82,7 @@ body {
 }
 
 .iconimg {
-  height: 74px;
+  height: 83px;
 }
 
 .gorite {
