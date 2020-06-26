@@ -6,17 +6,16 @@ header {
 footer {
   display: flex;
   background-size: cover;
-  background-color:rgb(238, 238, 238);
   height: 63px;
-  box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
+  box-shadow: 0 50vh 0 50vh rgba(73, 105, 76, 0.897);
 }
 
 * {box-sizing:border-box}
 body {
-  background-image:url(Pics/bg.jpg);
+  background-color: rgba(73, 105, 76, 0.897);
   background-size: cover;
   background-position: center;
-  background-color:rgb(73, 238, 86)
+  
 }
 
 .button {
