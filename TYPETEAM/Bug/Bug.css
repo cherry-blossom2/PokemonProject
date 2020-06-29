@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
-header {
-  background-color:rgba(104, 151, 108, 0.897)
-}
 footer {
   display: flex;
   background-size: cover;
@@ -12,7 +9,7 @@ footer {
 
 * {box-sizing:border-box}
 body {
-  background-color: rgba(73, 105, 76, 0.897);
+  background-image:url(bg.jpg);
   background-size: cover;
   background-position: center;
   
@@ -126,9 +123,7 @@ body {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
-section {
-  background-color:rgba(121, 223, 130, 0.993);
-}
+
 
 /* Position the "next button" to the right */
 .next {
