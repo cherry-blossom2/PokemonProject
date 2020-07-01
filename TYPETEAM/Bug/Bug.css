@@ -4,9 +4,12 @@ footer {
   display: flex;
   background-size: cover;
   height: 63px;
-  box-shadow: 0 50vh 0 50vh rgba(73, 105, 76, 0.897);
+  background-color:rgb(238, 238, 238);
+  box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
 }
-
+section {
+  height:900px;
+}
 * {
   box-sizing:border-box;
   color: white;
