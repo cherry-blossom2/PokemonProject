@@ -3,20 +3,16 @@
 footer {
   display: flex;
   background-size: cover;
-  height: 63px;
   background-color:rgb(238, 238, 238);
+  height: 63px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
 }
-* {
-  box-sizing:border-box;
-  color: white;
-}
 
+* {box-sizing:border-box}
 body {
-  background-image:url(bg.jpg);
+  background-image:url(Pics/bg.jpg);
   background-size: cover;
   background-position: center;
-  
 }
 
 .button {
@@ -95,10 +91,7 @@ body {
 .gorite {
   text-align: right;
 }
-.gorite.ctxt{
-  font-size:25px;
-  width:750px;
-}
+
 .goleft {
   text-align: left;
 }
@@ -131,7 +124,6 @@ body {
   user-select: none;
 }
 
-
 /* Position the "next button" to the right */
 .next {
   right: 0;
@@ -146,7 +138,7 @@ body {
 
 /* Caption text */
 .text {
-  color: white;
+  color: #000000;
   font-size: 18px;
   padding: 8px 12px;
   position: absolute;
