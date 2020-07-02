@@ -4,9 +4,12 @@ footer {
   display: flex;
   background-size: cover;
   background-color:rgb(238, 238, 238);
-  height: 63px;
+  height: 100px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
+  position: relative;
+  bottom: 0;
 }
+
 #HomePage{
   text-align:center;
 }
