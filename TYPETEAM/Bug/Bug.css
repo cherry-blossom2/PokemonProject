@@ -11,6 +11,10 @@ footer {
   box-sizing:border-box;
   color: white;
 }
+#HomePage{
+  text-align:center;
+}
+
 
 body {
   background-image:url(bg.jpg);

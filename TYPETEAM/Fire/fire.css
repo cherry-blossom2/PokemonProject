@@ -9,7 +9,9 @@ footer {
   position: fixed;
   bottom: 0;
 }
-
+#HomePage{
+  text-align:center;
+}
 * {box-sizing:border-box}
 body {
   background-image:url(bg.jpg);

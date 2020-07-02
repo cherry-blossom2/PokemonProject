@@ -12,7 +12,9 @@ footer {
   box-sizing:border-box;
   color: black;
 }
-
+#HomePage{
+  text-align:center;
+}
 body {
   background-image:url(Pics/bg.jpg);
   background-size: cover;
