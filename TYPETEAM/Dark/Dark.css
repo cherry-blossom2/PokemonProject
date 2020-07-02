@@ -79,7 +79,11 @@ body {
 
 .fcontain {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  height: 75px;
+  padding-bottom: 100px;
+  padding-top: 15px;
+  padding-left: 25px;
 }
 
 .ctxt {
