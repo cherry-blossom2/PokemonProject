@@ -3,10 +3,13 @@
 footer {
   display: flex;
   background-size: cover;
-  height: 63px;
   background-color:rgb(238, 238, 238);
+  height: 100px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
+  position: relative;
+  bottom: 0;
 }
+
 * {
   box-sizing:border-box;
   color: white;
@@ -20,7 +23,6 @@ body {
   background-image:url(bg.jpg);
   background-size: cover;
   background-position: center;
-  
 }
 
 .button {
@@ -99,10 +101,7 @@ body {
 .gorite {
   text-align: right;
 }
-.gorite.ctxt{
-  font-size:25px;
-  width:750px;
-}
+
 .goleft {
   text-align: left;
 }
