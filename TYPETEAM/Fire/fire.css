@@ -3,16 +3,14 @@
 footer {
   display: flex;
   background-size: cover;
-  height: 63px;
   background-color:rgb(238, 238, 238);
+  height: 100px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
+  position: relative;
+  bottom: 0;
 }
 
-* {
-  box-sizing:border-box;
-  color: white;
-}
-
+* {box-sizing:border-box}
 body {
   background-image:url(bg.jpg);
   background-size: cover;
@@ -58,6 +56,7 @@ body {
 
 .slideshowimg {
   height: 300px;
+  padding-bottom: 50px;
 }
 
 .trainers {
@@ -67,11 +66,14 @@ body {
 .trainerpic {
   float: right;
   height: 400px;
-  padding: 10px;
+  padding: 5px;
+  padding-top: 20px;
+  padding-left: 40px;
 }
 
 .matchups {
   float: left;
+  padding-bottom: 100px;
 }
 
 .heading {
@@ -80,8 +82,13 @@ body {
 
 .fcontain {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  height: 75px;
+  padding-bottom: 100px;
+  padding-top: 15px;
+  padding-left: 25px;
 }
+
 
 .ctxt {
   font-size: 20px;
@@ -94,6 +101,7 @@ body {
 
 .gorite {
   text-align: right;
+  padding-top: 5px;
 }
 
 .goleft {
@@ -104,7 +112,7 @@ body {
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 0px;
 }
 
 /* Hide the images by default */
@@ -128,7 +136,6 @@ body {
   user-select: none;
 }
 
-
 /* Position the "next button" to the right */
 .next {
   right: 0;
@@ -143,7 +150,7 @@ body {
 
 /* Caption text */
 .text {
-  color: white;
+  color: #000000;
   font-size: 18px;
   padding: 8px 12px;
   position: absolute;
