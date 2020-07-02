@@ -4,8 +4,10 @@ footer {
   display: flex;
   background-size: cover;
   background-color:rgb(238, 238, 238);
-  height: 63px;
+  height: 100px;
   box-shadow: 0 50vh 0 50vh rgb(238, 238, 238);
+  position: fixed;
+  bottom: 0;
 }
 
 * {box-sizing:border-box}
@@ -77,6 +79,8 @@ body {
 .fcontain {
   display: flex;
   justify-content: space-evenly;
+  height: 75px;
+  padding-bottom: 100px;
 }
 
 .ctxt {
