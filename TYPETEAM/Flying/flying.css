@@ -14,7 +14,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+#HomePage{
+  text-align:center;
+}
 .button {
   font-size: 25px;
   color:black;

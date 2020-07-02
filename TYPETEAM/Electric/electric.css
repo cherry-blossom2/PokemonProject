@@ -11,7 +11,9 @@ footer {
 * {
   box-sizing: border-box;
 }
-
+#HomePage{
+  text-align:center;
+}
 body {
   background-image:url(Pics/bg.jpg);
   background-size: cover;
