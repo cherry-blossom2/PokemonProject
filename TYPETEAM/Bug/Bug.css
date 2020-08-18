@@ -16,13 +16,14 @@ footer {
 }
 #HomePage{
   text-align:center;
+  background-color: rgb(16, 63, 7);
 }
 
 
 body {
   background-image:url(bg.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 }
 
 .button {
